@@ -17,3 +17,15 @@ rather compare 3 iterative algorithms:
 
 #### USAGE
     ./105torus opt a0 a1 a2 a3 a4 n
+
+
+#### DESCRIPTION
+| params | description                                         |
+| ------ |:---------------------------------------------------:|
+| opt    | method option:                                      |
+|        | 1 for the bisection method                          |
+|        | 2 for Newton’s method                               |
+|        | 3 for the secant method                             |
+| a[0-4] | coefficients of the equation                        |
+| n      | precision (the application of the polynomial to the |
+|        | solution should be smaller than 10ˆ-n)              |
