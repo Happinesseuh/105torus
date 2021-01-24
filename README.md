@@ -1,7 +1,7 @@
-# 105torus_2019
+# 105torus_2020
 
 ## Description
-Maths 105torus Epitech Teck1
+Maths 105torus Epitech Tek1
 
 Drawing circles, cylinders and cones is a good start for an image synthesis software, but one have to admit
 it is not fully satisfying. . . This project is the continuation of the previous one, and should allow you to draw
