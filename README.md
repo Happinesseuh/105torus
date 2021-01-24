@@ -17,8 +17,6 @@ rather compare 3 iterative algorithms:
 
 #### USAGE
     ./105torus opt a0 a1 a2 a3 a4 n
-<<<<<<< HEAD
-
 
 #### DESCRIPTION
 | params | description                                         |
